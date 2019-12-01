@@ -7,5 +7,4 @@ pandoc --filter pandoc-citeproc --csl /Users/johngodlee/.texmf/apa.csl --standal
 
 pandoc -f html -t plain --columns=68 -o books.txt books.html
 
-
-
+cp books.html index.html
