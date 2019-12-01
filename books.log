@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.13)  1 DEC 2019 11:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.13)  1 DEC 2019 12:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -932,21 +932,21 @@ Package rerunfilecheck Info: File `books.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 17.
  ) 
 Here is how much of TeX's memory you used:
- 22568 strings out of 492616
- 411297 string characters out of 6129481
- 464437 words of memory out of 5000000
- 26278 multiletter control sequences out of 15000+600000
+ 22572 strings out of 492616
+ 411386 string characters out of 6129481
+ 464465 words of memory out of 5000000
+ 26281 multiletter control sequences out of 15000+600000
  543547 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,6n,65p,225b,872s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,6n,65p,225b,870s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></
 usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on books.pdf (2 pages, 69579 bytes).
+Output written on books.pdf (2 pages, 70153 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 39 named destinations out of 1000 (max. 500000)
+ 76 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 40 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
