@@ -3,44 +3,45 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: books.aux
 The style file: /Users/johngodlee/.texmf/agsmnourl.bst
 Database file #1: books.bib
-You've used 36 entries,
+Reallocated field_info (elt_size=4) to 10016 items from 5000.
+You've used 278 entries,
             2878 wiz_defined-function locations,
-            829 strings with 7723 characters,
-and the built_in function-call counts, 85492 in all, are:
-= -- 13484
-> -- 964
+            1927 strings with 26298 characters,
+and the built_in function-call counts, 717019 in all, are:
+= -- 113572
+> -- 8811
 < -- 0
-+ -- 6055
-- -- 280
-* -- 6676
-:= -- 18430
-add.period$ -- 36
-call.type$ -- 36
-change.case$ -- 468
-chr.to.int$ -- 32
-cite$ -- 36
-duplicate$ -- 576
-empty$ -- 1011
-format.name$ -- 368
-if$ -- 15149
-int.to.chr$ -- 9
++ -- 51847
+- -- 2569
+* -- 57020
+:= -- 152743
+add.period$ -- 278
+call.type$ -- 278
+change.case$ -- 3614
+chr.to.int$ -- 265
+cite$ -- 278
+duplicate$ -- 4448
+empty$ -- 7831
+format.name$ -- 3234
+if$ -- 127356
+int.to.chr$ -- 18
 int.to.str$ -- 0
-missing$ -- 70
-newline$ -- 111
-num.names$ -- 368
-pop$ -- 280
+missing$ -- 510
+newline$ -- 837
+num.names$ -- 2973
+pop$ -- 2149
 preamble$ -- 1
-purify$ -- 540
+purify$ -- 4170
 quote$ -- 0
-skip$ -- 297
+skip$ -- 2298
 stack$ -- 0
-substring$ -- 18371
-swap$ -- 42
-text.length$ -- 504
+substring$ -- 155701
+swap$ -- 299
+text.length$ -- 3892
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 72
+type$ -- 556
 warning$ -- 0
-while$ -- 756
+while$ -- 5838
 width$ -- 0
-write$ -- 470
+write$ -- 3633
