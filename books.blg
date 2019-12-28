@@ -6,7 +6,7 @@ Database file #1: books.bib
 Reallocated field_info (elt_size=4) to 10016 items from 5000.
 You've used 278 entries,
             2878 wiz_defined-function locations,
-            1927 strings with 26298 characters,
+            1927 strings with 26505 characters,
 and the built_in function-call counts, 717019 in all, are:
 = -- 113572
 > -- 8811

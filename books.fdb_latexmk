@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex books"] 1577569690 "books.aux" "books.bbl" "books" 1577569974
+["bibtex books"] 1577571130 "books.aux" "books.bbl" "books" 1577571132
   "/Users/johngodlee/.texmf/agsmnourl.bst" 1569268940 25316 cf53889aef81b6ecf7ac8509cde40966 ""
-  "books.aux" 1577569691 15717 7ec9345a0e3e4fa947c0c8d34d2ec1d3 "pdflatex"
-  "books.bib" 1577569689 54712 7524e70fb9bddc85355db42509dc23d5 ""
+  "books.aux" 1577571132 15717 7ec9345a0e3e4fa947c0c8d34d2ec1d3 "pdflatex"
+  "books.bib" 1577571111 54136 501be6f8b381a2c0e5272970ee8dc193 ""
   (generated)
   "books.blg"
   "books.bbl"
-["pdflatex"] 1577569690 "books.tex" "books.pdf" "books" 1577569974
+["pdflatex"] 1577571131 "books.tex" "books.pdf" "books" 1577571132
   "/Users/johngodlee/.texmf/code_format.tex" 1571073695 857 601e50ac7629ea4e5f739ceaa1f228f4 ""
   "/Users/johngodlee/.texmf/mynotes.sty" 1576252092 1764 515f2e868e025c75248dea8ab920a2b6 ""
-  "/dev/null" 1577569974 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "/dev/null" 1577571129 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm" 1136768653 3584 13049b61b922a28b158a38aeff75ee9b ""
@@ -112,12 +112,12 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1560438610 4259636 c3c34e0b28d65e9ba03c0e352c7e170a ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "books.aux" 1577569691 15717 7ec9345a0e3e4fa947c0c8d34d2ec1d3 "pdflatex"
-  "books.bbl" 1577569690 50115 bfd49a02eb86f5392b18221f4c4888f8 "bibtex books"
-  "books.out" 1577569691 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "books.aux" 1577571132 15717 7ec9345a0e3e4fa947c0c8d34d2ec1d3 "pdflatex"
+  "books.bbl" 1577571131 50326 2088bd9c59aac03f512eeed1e6b1eb84 "bibtex books"
+  "books.out" 1577571131 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "books.tex" 1577538286 184 bfcbd1ae3250b5fd4a2aa520868738c2 ""
   (generated)
-  "books.pdf"
   "books.log"
   "books.aux"
   "books.out"
+  "books.pdf"
