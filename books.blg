@@ -1,47 +1,21 @@
-This is BibTeX, Version 0.99d (TeX Live 2019)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: books.aux
-The style file: /Users/johngodlee/.texmf/agsmnourl.bst
-Database file #1: books.bib
-Reallocated field_info (elt_size=4) to 10016 items from 5000.
-You've used 278 entries,
-            2878 wiz_defined-function locations,
-            1927 strings with 26505 characters,
-and the built_in function-call counts, 717019 in all, are:
-= -- 113572
-> -- 8811
-< -- 0
-+ -- 51847
-- -- 2569
-* -- 57020
-:= -- 152743
-add.period$ -- 278
-call.type$ -- 278
-change.case$ -- 3614
-chr.to.int$ -- 265
-cite$ -- 278
-duplicate$ -- 4448
-empty$ -- 7831
-format.name$ -- 3234
-if$ -- 127356
-int.to.chr$ -- 18
-int.to.str$ -- 0
-missing$ -- 510
-newline$ -- 837
-num.names$ -- 2973
-pop$ -- 2149
-preamble$ -- 1
-purify$ -- 4170
-quote$ -- 0
-skip$ -- 2298
-stack$ -- 0
-substring$ -- 155701
-swap$ -- 299
-text.length$ -- 3892
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 556
-warning$ -- 0
-while$ -- 5838
-width$ -- 0
-write$ -- 3633
+[1] Config.pm:304> INFO - This is Biber 2.14
+[2] Config.pm:307> INFO - Logfile is 'books.blg'
+[174] biber-darwin:322> INFO - === Sat Oct  3, 2020, 13:30:15
+[206] Biber.pm:415> INFO - Reading 'books.bcf'
+[425] Biber.pm:940> INFO - Using all citekeys in bib section 0
+[462] Biber.pm:4256> INFO - Processing section 0
+[463] Utils.pm:75> INFO - Globbing data source 'books.bib'
+[463] Utils.pm:91> INFO - Globbed data source 'books.bib' to books.bib
+[497] Biber.pm:4455> INFO - Looking for bibtex format file 'books.bib' for section 0
+[513] bibtex.pm:1653> INFO - LaTeX decoding ...
+[1099] bibtex.pm:1471> INFO - Found BibTeX data source 'books.bib'
+[1243] Utils.pm:304> WARN - ISBN '0575078628' in entry 'Adams2005' is invalid - run biber with '--validate_datamodel' for details.
+[1869] Utils.pm:304> WARN - ISBN '0319465820' in entry 'OS3782007' is invalid - run biber with '--validate_datamodel' for details.
+[2027] Utils.pm:304> WARN - ISBN '19357494' in entry 'Lapham2008' is invalid - run biber with '--validate_datamodel' for details.
+[3967] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3968] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3968] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[3968] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[4412] bbl.pm:652> INFO - Writing 'books.bbl' with encoding 'UTF-8'
+[4692] bbl.pm:755> INFO - Output to books.bbl
+[4692] Biber.pm:128> INFO - WARNINGS: 3
